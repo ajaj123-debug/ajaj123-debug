@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajaj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Tech Enthusiast passionate about Software Engineering. I love building things and helping people.</h3>
 
 - 🔭 I’m currently working on **Personalized Learning Recommendation System**
 
